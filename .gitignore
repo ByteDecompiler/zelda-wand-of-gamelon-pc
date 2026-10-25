@@ -1,0 +1,11 @@
+build/
+*.bin
+*.cue
+*.iso
+saves/
+zelda_port.log
+zelda_port.ini
+screenshots/
+
+third_party/
+__pycache__/
